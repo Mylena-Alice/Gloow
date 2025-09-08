@@ -166,5 +166,3 @@ Todos os produtos são carregados dinamicamente de um arquivo JSON, sem uso de b
 ## Link para o vídeo de  demonstração
 
 https://youtu.be/v_PyIQt9TJo?feature=shared
-1. Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html).
-2. Coloque a pasta do projeto dentro do diretório:
