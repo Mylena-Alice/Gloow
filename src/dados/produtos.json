@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Gloss Rosa",
+    "descricao": "Gloss rosa claro com brilho suave.",
+    "preco": 19.90,
+    "imagem": "gloss1.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Gloss Vermelho",
+    "descricao": "Gloss vermelho vibrante e marcante.",
+    "preco": 24.90,
+    "imagem": "gloss2.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Gloss Nude",
+    "descricao": "Gloss nude elegante para qualquer ocasião.",
+    "preco": 22.50,
+    "imagem": "gloss3.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Gloss Transparente",
+    "descricao": "Gloss incolor hidratante e versátil.",
+    "preco": 18.00,
+    "imagem": "gloss4.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Gloss Pink",
+    "descricao": "Gloss pink marcante com acabamento brilhante.",
+    "preco": 23.90,
+    "imagem": "gloss5.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Gloss Coral",
+    "descricao": "Gloss coral delicado para um look leve.",
+    "preco": 20.00,
+    "imagem": "gloss6.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Gloss Roxo",
+    "descricao": "Gloss roxo intenso e ousado.",
+    "preco": 26.00,
+    "imagem": "gloss7.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Gloss Marrom",
+    "descricao": "Gloss marrom sofisticado com brilho discreto.",
+    "preco": 21.50,
+    "imagem": "gloss8.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Gloss Dourado",
+    "descricao": "Gloss dourado com partículas de glitter.",
+    "preco": 29.90,
+    "imagem": "gloss9.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Gloss Prata",
+    "descricao": "Gloss prata cintilante e moderno.",
+    "preco": 27.00,
+    "imagem": "gloss10.jpg"
+  }
+]
